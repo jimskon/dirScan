@@ -1,3 +1,6 @@
+/* dirScan - program to scan Project Gutenburg files
+   By Jim Skon, 2017
+ */
 #include <iostream>
 #include <string>
 #include <dirent.h>
